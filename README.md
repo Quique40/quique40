@@ -30,4 +30,14 @@ const enrique = {
 
 <p>Desarrolle una App de un sitio web donde se realiza el comercio electrónico de libros.
 Las funcionalidades que incluyen esta App son operaciones CRUD para: usuarios, libros, reseñas, favoritos, carrito de compras, método de pago, busqueda histórica de transacciones para los usuarios, envío de correos electrónicos.
-Los lenguajes y bibliotecas que utilizamos son: JavaScript, React, Redux Toolkit, CSS, Sass, SweetAlert2, Firebase, Node.js, Express, Sequelize, PostgreSQL, JsonWebToken, Nodemailer, Auth0, MercadoPago, Axios y finalmente para el despliegue, Vercel y Heroku.</p>
+Los lenguajes y bibliotecas que utilizamos son: JavaScript, React, Redux Toolkit, CSS, Sass, SweetAlert2, Firebase, Node.js, Express, Sequelize, PostgreSQL, JsonWebToken, Nodemailer, Auth0, MercadoPago, Axios y finalmente para el deploy, Vercel y Heroku.</p>
+
+<h3>App Countries</h3>
+
+<p>
+<a><img src="https://github.com/Quique40/quique40/blob/main/images/appCountries.png"></a>
+</p>
+
+<p>Desarrollo de un App de países que incluye: barra de búsqueda, filtros, ordenamientos, paginado y creación de actividades turísticas.
+-Para el desarrollo del back-end utilicé: JavaScript, Node.Js Express, Sequelize y PostgreSQL.
+-Para el desarrollo del front-end utilicé: JavaScript, React, Redux y Module CSS.</p>
