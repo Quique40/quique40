@@ -27,3 +27,7 @@ const enrique = {
 <a><img src="https://github.com/Quique40/quique40/blob/main/images/book_02.png"></a>
 <a><img src="https://github.com/Quique40/quique40/blob/main/images/book_03.png"></a>
 </p>
+
+<p>Desarrolle una App de un sitio web donde se realiza el comercio electrónico de libros.
+Las funcionalidades que incluyen esta App son operaciones CRUD para: usuarios, libros, reseñas, favoritos, carrito de compras, método de pago, busqueda histórica de transacciones para los usuarios, envío de correos electrónicos.
+Los lenguajes y bibliotecas que utilizamos son: JavaScript, React, Redux Toolkit, CSS, Sass, SweetAlert2, Firebase, Node.js, Express, Sequelize, PostgreSQL, JsonWebToken, Nodemailer, Auth0, MercadoPago, Axios y finalmente para el despliegue, Vercel y Heroku.</p>
