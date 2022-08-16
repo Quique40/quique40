@@ -23,6 +23,9 @@ const enrique = {
 
 <p>
 <a><img src="https://github.com/Quique40/quique40/blob/main/images/book_01.png"></a>
+<<<<<<< HEAD
 <a><img src="https://github.com/Quique40/quique40/blob/main/images/book_02.png"></a>
 <a><img src="https://github.com/Quique40/quique40/blob/main/images/book_03.png"></a>
+=======
+>>>>>>> 5723b2f54156100492f2181527f77a5c9cdf3a6c
 </p>
