@@ -1,4 +1,4 @@
-<h3 align="left">Tengo 40 años, argentino, soy Ingeniero Electrónico. A principios del año 2022 redescubrí mi pasión por el desarrollo de software y obtuve una certificación de desarrollador web full stack.</h3>
+<h3 align="left">Tengo 40 años, argentino, soy Ingeniero Electrónico. A principios del año 2022 descubrí mi pasión por el desarrollo de software y obtuve una certificación de desarrollador web full stack.</h3>
 
 ```js
 const enrique = {
