@@ -38,6 +38,8 @@ Los lenguajes y bibliotecas que utilizamos son: JavaScript, React, Redux Toolkit
 <a><img src="https://github.com/Quique40/quique40/blob/main/images/appCountries.png"></a>
 </p>
 
-<p>Desarrollo de un App de países que incluye: barra de búsqueda, filtros, ordenamientos, paginado y creación de actividades turísticas.
--Para el desarrollo del back-end utilicé: JavaScript, Node.Js Express, Sequelize y PostgreSQL.
--Para el desarrollo del front-end utilicé: JavaScript, React, Redux y Module CSS.</p>
+<p>Desarrollo de un App de países que incluye: barra de búsqueda, filtros, ordenamientos, paginado y creación de actividades turísticas.</p>
+<ul>
+<li>Para el desarrollo del back-end utilicé: JavaScript, Node.Js Express, Sequelize y PostgreSQL.
+<li>Para el desarrollo del front-end utilicé: JavaScript, React, Redux y Module CSS.
+</ul>
