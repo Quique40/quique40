@@ -22,5 +22,5 @@ const enrique = {
 ## :pushpin: Mis proyectos
 
 <!-- <a><img src="https://github.com/"></a> -->
-<a><img src="https://github.com/Quique40/quique40/blob/main/images/book_01.png"></a>
+<a><img src="https://github.com/Quique40/quique40/main/images/book_01.png"></a>
 
