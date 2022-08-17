@@ -1,4 +1,4 @@
-<h3 align="left">Tengo 40 años, argentino, soy Ingeniero Electrónico. A principios del año 2022 descubrí mi pasión por el desarrollo de software y obtuve una certificación de desarrollador web full stack.</h3>
+<h3 align="left">Tengo 40 años, argentino, soy Ingeniero Electrónico. A principios del año 2022 descubrí mi pasión por el desarrollo de software y obtuve una certificación como desarrollador web full stack.</h3>
 
 ```js
 const enrique = {
@@ -29,7 +29,7 @@ const enrique = {
 </p>
 
 <p>Desarrollo de una App donde se realiza el comercio electrónico de libros.
-Las funcionalidades que incluye esta App son operaciones CRUD para: usuarios, libros, reseñas, favoritos, carrito de compras, método de pago, busqueda histórica de transacciones para los usuarios, envío de correos electrónicos.
+Las funcionalidades que incluye esta App son operaciones CRUD para: usuarios, libros, reseñas, favoritos, carrito de compras, método de pago, búsqueda histórica de transacciones para los usuarios, envío de correos electrónicos.
 Los lenguajes y bibliotecas utilizadas son: JavaScript, React, Redux Toolkit, CSS, Sass, SweetAlert2, Firebase, Node.js, Express, Sequelize, PostgreSQL, JsonWebToken, Nodemailer, Auth0, MercadoPago, Axios y finalmente para el deploy: Vercel y Heroku.</p>
 
 <h3>App Countries</h3>
