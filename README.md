@@ -17,7 +17,7 @@ const enrique = {
    },  
 }
 ``` 
-- 💬 Preguntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**Mis proyectos
+- 💬 Preguntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
 
 ## :pushpin: Mis proyectos
 
